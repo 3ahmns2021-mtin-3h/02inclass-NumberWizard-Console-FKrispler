@@ -1,4 +1,4 @@
-# Template2D-Unity202015f1
+# 02inclass-NumberWizard-Console-FKrispler
 
 ### Project description: 
 Introduction/Project summary 
